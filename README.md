@@ -1,2 +1,2 @@
 # maxgreat.github.io
-publicwebsite
+This website redirect to my personal website : portaz.fr
